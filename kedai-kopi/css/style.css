@@ -306,6 +306,12 @@ body {
   line-height: 1.6;
 }
 
+.about .row .content .caption {
+  font-size: 2rem;
+  margin-top: 5rem;
+}
+
+
 /* Menu Section */
 .menu h2,
 .products h2,
